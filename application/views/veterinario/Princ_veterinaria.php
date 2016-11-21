@@ -78,7 +78,7 @@
 
               <div class="form-group input-group">
                 <span class="input-group-addon">Comentario:</span>
-                <input class="form-control" type="text" name="nombre" value="<?php echo $mascota->comentario; ?>">
+                <input class="form-control" type="text" name="comentario" value="<?php echo $mascota->comentario; ?>">
               </div>
 
 
