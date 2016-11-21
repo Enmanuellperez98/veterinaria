@@ -32,7 +32,7 @@
     <nav class="navbar navbar-default navbar-static-top">
     <div class="container">
       <a href="<?php echo base_url('/seguridad/salir');?>" class="navbar-brand navbar-right">Salir</a>
-      <a href='<?php echo base_url("/cal")?>' class='navbar-brand navbar-right'>Calculadora</a>
+      <a href='<?php echo base_url("/cal")?>' class='navbar-brand navbar-right'>Registro</a>
 
 
     </div>
